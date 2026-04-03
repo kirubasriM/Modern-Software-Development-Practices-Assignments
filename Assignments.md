@@ -1,7 +1,7 @@
 # Assignment Submissions
 
 # 1 Certification Requirement
-> - AI Fluency for Students
+> - AI Fluency for Students.
 >
 >  
 > - Introduction to Agent Skills
