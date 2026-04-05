@@ -42,6 +42,6 @@
 >  https://drive.google.com/folderview?id=1W5mgxSji6-ceeDHqgWJ7mLm0kpZWHANN
 > Kindly upload the certifications PDF in Google Drive Link
 
-# 6 GitHub Profile README
+# 6 GitHub Profile README.
 > Kindly submit your GitHub Profile README URL
     https://github.com/kirubasriM/One-Credit-/edit/main/README.md
