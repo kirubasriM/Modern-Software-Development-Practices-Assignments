@@ -2,10 +2,10 @@
 
 # 1 Certification Requirement
 > - AI Fluency for Students.
->
+> https://drive.google.com/folderview?id=1W5mgxSji6-ceeDHqgWJ7mLm0kpZWHANN
 >  
 > - Introduction to Agent Skills
->
+> https://drive.google.com/folderview?id=1W5mgxSji6-ceeDHqgWJ7mLm0kpZWHANN
 > Kindly submit the verification link here
 > https://drive.google.com/folderview?id=1W5mgxSji6-ceeDHqgWJ7mLm0kpZWHANN
 > Kindly upload the certifications PDF in Google Drive Link
@@ -18,7 +18,7 @@
 > - Kindly submit the Vercel Deployment URL
 > https://one-credit-hl1rp5e3c-kirubasrims-projects.vercel.app/
 > - Kindly submit the GitHub Pages (Documentation) URL
-
+    https://kirubasrim.github.io/One-Credit-/
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >  chatbot 
